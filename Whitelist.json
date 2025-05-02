@@ -1,5 +1,8 @@
 {
     "webhook_url": "https://discord.com/api/webhooks/1361601649344254014/oKBBJ9oNfzTLdNfSe9czoS2phSzFdui4KLYusId0MzdX6SU6RW0L4uP7fW8q_PqC5Ejy",
+    "cctbsnowyy": {
+        "uuid": "e961b0fd-fc90-479d-b239-bb641b186957"
+    },
     "gfnsnowyy": {
         "uuid": "1856f125-caa4-4aac-8e14-248528c4e637"
     },
@@ -32,5 +35,8 @@
     },
     "CinderIII": {
         "uuid": "c04a26ac-ed65-40ee-9b04-f3de3c2d741d"
+    },
+    "YukiKazan": {
+        "uuid": "cb060c74-ceda-41b6-8966-af2927c70245"
     }
 }
